@@ -1,0 +1,10 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+crewai
+openai
+gradio
+python-dotenv
