@@ -1,9 +1,3 @@
-
----
-
-# 📦 requirements.txt
-
-```txt
 crewai
 openai
 gradio
