@@ -1,4 +1,4 @@
-# 🧾 AI Resume & Cover Letter Agent (CrewAI Multi-Agent System)
+# 🧾 AI Resume & Cover Letter Agent
 
 ## 🚀 Problem Statement
 Design an AI-powered multi-agent system that automatically generates, analyzes, and optimizes resumes and cover letters based on job descriptions, ensuring ATS compatibility and personalization.
